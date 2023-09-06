@@ -7,7 +7,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laynikerlog&bg_color=0d1117&color=e80e0e&line=e80e0e&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##
 
